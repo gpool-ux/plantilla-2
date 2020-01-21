@@ -45,8 +45,11 @@ header {
   color: #1f3f68;
 }
 
-.navbar a:hover {
-  border: 5px rgb(42, 129, 201) solid;
+
+
+.navbar a:hover{
+  color: green;
+
 }
 
 /* BANNER Y CURVAS */
